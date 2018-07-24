@@ -5,9 +5,7 @@
 
 
 # Essential Commands (25% of the Exam)
-Log into Local and Remote Graphical and Text Mode Consoles - Debian Version (Ubuntu)
-
-Log into Local and Remote Graphical and Text Mode Consoles - RedHat version (CentOS)
+Log into Local and Remote Graphical and Text Mode Consoles
 
 Search for Files
 
@@ -36,6 +34,8 @@ Transfer Files Securely Via the Network
 Managing File
 
 Attributes and Permissions 
+
+
 
 # Operation of Running Systems (20% of the Exam) 
 
@@ -71,7 +71,9 @@ List and identify SELinux/AppArmor file and process contexts
 
 Identify the component of a Linux distribution that a file belongs to 
 
-Installing and Managing Packages on Debian/Ubuntu - Red Hat/CentOS Systems 
+Installing and Managing Packages
+
+
 
 # User and Group Management (10% of the Exam) 
 
@@ -91,6 +93,8 @@ Configure PAM
 
 Creating Users and Group and Managing User Accounts 
 
+
+
 # Networking (12% of the Exam) 
 
 Configure networking and hostname resolution statically or dynamically 
@@ -108,6 +112,8 @@ Synchronize Time Using Other Network Peers
 Working with Networking Shares Using NFS 
 
 Monitoring Network Access 
+
+
 
 # Service Configuration (20% of the Exam) 
 
@@ -142,6 +148,8 @@ Manage and Configure Virtual Machines
 Deploy a Web Server on RedHat/CentOS 
 
 Generating and Exchanging SSH Keys for Secure Access 
+
+
 
 # Storage Management (13% of the Exam) 
 
